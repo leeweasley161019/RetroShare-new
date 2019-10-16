@@ -1,7 +1,6 @@
 git:
   depth: 2000
 
-
 language: cpp
 
 matrix:
