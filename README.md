@@ -7,8 +7,8 @@ Build Status
 
 | Platform  | Build Status |
 | :------------- | :------------- |
-| GNU/Linux, MacOS, (via travis-ci)  | [![Build Status](https://travis-ci.org/unsenep2pdev/RetroShare.svg?branch=master)](https://travis-ci.org/unsenep2pdev/RetroShare) |
-| Windows, `MSys2` (via appveyor)  | [![Build status](https://ci.appveyor.com/api/projects/status/rw8jvbpl9m6iumxc?svg=true)](https://ci.appveyor.com/project/unsenep2pdev/retroshare) |
+| GNU/Linux, MacOS, (via travis-ci)  | [![Build Status](https://travis-ci.org/leeweasley161019/RetroShare.svg?branch=master)](https://travis-ci.org/leeweasley161019/RetroShare) |
+| Windows, `MSys2` (via appveyor)  | [![Build status](https://ci.appveyor.com/project/leeweasley161019/retroshare)](https://ci.appveyor.com/project/leeweasley161019/retroshare) |
 
 Compilation on Windows
 ----------------------------
